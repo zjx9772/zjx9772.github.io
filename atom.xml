@@ -1,39 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>了然的博客</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2018-06-24T10:39:52.158Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://zjx9772.com/"/>
+  <updated>2018-07-07T07:52:38.183Z</updated>
+  <id>http://zjx9772.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Annie Zhang</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>zjx-blog</title>
-    <link href="http://yoursite.com/2018/06/24/zjx-blog/"/>
-    <id>http://yoursite.com/2018/06/24/zjx-blog/</id>
+    <title>前端开发学习笔记</title>
+    <link href="http://zjx9772.com/2018/06/24/zjx-blog/"/>
+    <id>http://zjx9772.com/2018/06/24/zjx-blog/</id>
     <published>2018-06-24T10:39:52.000Z</published>
-    <updated>2018-06-24T10:39:52.158Z</updated>
+    <updated>2018-07-07T07:52:38.183Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="前端开发学习笔记"><a href="#前端开发学习笔记" class="headerlink" title="前端开发学习笔记"></a>前端开发学习笔记</h1><h2 id="插件的使用"><a href="#插件的使用" class="headerlink" title="插件的使用"></a>插件的使用</h2><h3 id="一、echarts的使用"><a href="#一、echarts的使用" class="headerlink" title="一、echarts的使用"></a>一、echarts的使用</h3><ul><li>环状图、饼图<br>   a 配置<br>   b 示例</li><li>柱状图与曲线图结合<br>   a 配置<br>   b 示例</li></ul><h3 id="二、bootstrap-table的使用"><a href="#二、bootstrap-table的使用" class="headerlink" title="二、bootstrap-table的使用"></a>二、bootstrap-table的使用</h3><ul><li>定制列<br>   a 示例</li><li>导出表格<br>   a 示例</li></ul><p><a href="https://zjx9772.github.io/" target="_blank" rel="noopener">Annie Zhang的博客</a> </p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h1 id=&quot;前端开发学习笔记&quot;&gt;&lt;a href=&quot;#前端开发学习笔记&quot; class=&quot;headerlink&quot; title=&quot;前端开发学习笔记&quot;&gt;&lt;/a&gt;前端开发学习笔记&lt;/h1&gt;&lt;h2 id=&quot;插件的使用&quot;&gt;&lt;a href=&quot;#插件的使用&quot; class=&quot;headerlink
+      
+    
     </summary>
     
+      <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/06/24/hello-world/"/>
-    <id>http://yoursite.com/2018/06/24/hello-world/</id>
+    <link href="http://zjx9772.com/2018/06/24/hello-world/"/>
+    <id>http://zjx9772.com/2018/06/24/hello-world/</id>
     <published>2018-06-24T09:47:13.829Z</published>
     <updated>2018-06-24T09:47:13.830Z</updated>
     
