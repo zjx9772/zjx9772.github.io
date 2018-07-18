@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zjx9772.com/"/>
-  <updated>2018-07-18T05:56:16.940Z</updated>
+  <updated>2018-07-18T07:38:21.092Z</updated>
   <id>http://zjx9772.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog20/"/>
     <id>http://zjx9772.com/2018/07/18/blog20/</id>
     <published>2018-07-18T03:25:21.000Z</published>
-    <updated>2018-07-18T05:56:16.940Z</updated>
+    <updated>2018-07-18T07:38:21.092Z</updated>
     
     <content type="html"><![CDATA[<h3 id="时间轴的使用"><a href="#时间轴的使用" class="headerlink" title="时间轴的使用"></a>时间轴的使用</h3>]]></content>
     
@@ -37,9 +37,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="plugins" scheme="http://zjx9772.com/tags/plugins/"/>
     
   </entry>
   
@@ -48,7 +46,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog19/"/>
     <id>http://zjx9772.com/2018/07/18/blog19/</id>
     <published>2018-07-18T03:25:14.000Z</published>
-    <updated>2018-07-18T05:55:09.024Z</updated>
+    <updated>2018-07-18T07:38:06.787Z</updated>
     
     <content type="html"><![CDATA[<h3 id="serializeObject-表单序列化方法"><a href="#serializeObject-表单序列化方法" class="headerlink" title="serializeObject()表单序列化方法"></a>serializeObject()表单序列化方法</h3>]]></content>
     
@@ -64,9 +62,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -75,7 +71,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog18/"/>
     <id>http://zjx9772.com/2018/07/18/blog18/</id>
     <published>2018-07-18T03:25:08.000Z</published>
-    <updated>2018-07-18T05:53:51.558Z</updated>
+    <updated>2018-07-18T07:37:48.091Z</updated>
     
     <content type="html"><![CDATA[<h3 id="grep-arr-function-item-index-删除数组中不满足条件的对象"><a href="#grep-arr-function-item-index-删除数组中不满足条件的对象" class="headerlink" title="$.grep(arr,function(){item,index})删除数组中不满足条件的对象"></a>$.grep(arr,function(){item,index})删除数组中不满足条件的对象</h3>]]></content>
     
@@ -91,9 +87,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="jquery" scheme="http://zjx9772.com/tags/jquery/"/>
     
   </entry>
   
@@ -102,7 +96,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog17/"/>
     <id>http://zjx9772.com/2018/07/18/blog17/</id>
     <published>2018-07-18T03:25:00.000Z</published>
-    <updated>2018-07-18T05:52:00.440Z</updated>
+    <updated>2018-07-18T07:37:33.931Z</updated>
     
     <content type="html"><![CDATA[<h3 id="checkbox全选-全不选"><a href="#checkbox全选-全不选" class="headerlink" title="checkbox全选/全不选"></a>checkbox全选/全不选</h3>]]></content>
     
@@ -118,9 +112,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -129,7 +121,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog16/"/>
     <id>http://zjx9772.com/2018/07/18/blog16/</id>
     <published>2018-07-18T03:24:54.000Z</published>
-    <updated>2018-07-18T05:51:10.020Z</updated>
+    <updated>2018-07-18T07:37:19.339Z</updated>
     
     <content type="html"><![CDATA[<h3 id="点击弹框以外的部分，弹框消失"><a href="#点击弹框以外的部分，弹框消失" class="headerlink" title="点击弹框以外的部分，弹框消失"></a>点击弹框以外的部分，弹框消失</h3>]]></content>
     
@@ -145,9 +137,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -156,7 +146,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog15/"/>
     <id>http://zjx9772.com/2018/07/18/blog15/</id>
     <published>2018-07-18T03:24:46.000Z</published>
-    <updated>2018-07-18T05:50:11.938Z</updated>
+    <updated>2018-07-18T07:37:04.122Z</updated>
     
     <content type="html"><![CDATA[<h3 id="jquery的ztree用法"><a href="#jquery的ztree用法" class="headerlink" title="jquery的ztree用法"></a>jquery的ztree用法</h3>]]></content>
     
@@ -172,9 +162,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="plugins" scheme="http://zjx9772.com/tags/plugins/"/>
     
   </entry>
   
@@ -183,7 +171,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog14/"/>
     <id>http://zjx9772.com/2018/07/18/blog14/</id>
     <published>2018-07-18T03:24:39.000Z</published>
-    <updated>2018-07-18T05:49:30.199Z</updated>
+    <updated>2018-07-18T07:36:53.778Z</updated>
     
     <content type="html"><![CDATA[<h3 id="npm的用法及包的使用"><a href="#npm的用法及包的使用" class="headerlink" title="npm的用法及包的使用"></a>npm的用法及包的使用</h3>]]></content>
     
@@ -199,9 +187,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="tools" scheme="http://zjx9772.com/tags/tools/"/>
     
   </entry>
   
@@ -210,7 +196,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog13/"/>
     <id>http://zjx9772.com/2018/07/18/blog13/</id>
     <published>2018-07-18T03:24:32.000Z</published>
-    <updated>2018-07-18T05:48:35.210Z</updated>
+    <updated>2018-07-18T07:36:42.602Z</updated>
     
     <content type="html"><![CDATA[<h3 id="settimeout-setInterval"><a href="#settimeout-setInterval" class="headerlink" title="settimeout/setInterval"></a>settimeout/setInterval</h3>]]></content>
     
@@ -226,9 +212,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -237,7 +221,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog12/"/>
     <id>http://zjx9772.com/2018/07/18/blog12/</id>
     <published>2018-07-18T03:24:25.000Z</published>
-    <updated>2018-07-18T05:47:49.264Z</updated>
+    <updated>2018-07-18T07:36:28.305Z</updated>
     
     <content type="html"><![CDATA[<h3 id="jq-js各种选择器-eq-1-………"><a href="#jq-js各种选择器-eq-1-………" class="headerlink" title="jq,js各种选择器,eq(1)………"></a>jq,js各种选择器,eq(1)………</h3>]]></content>
     
@@ -253,18 +237,16 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="jquery" scheme="http://zjx9772.com/tags/jquery/"/>
     
   </entry>
   
   <entry>
-    <title>key：value</title>
+    <title>对象键与值</title>
     <link href="http://zjx9772.com/2018/07/18/blog11/"/>
     <id>http://zjx9772.com/2018/07/18/blog11/</id>
     <published>2018-07-18T03:24:16.000Z</published>
-    <updated>2018-07-18T05:46:32.377Z</updated>
+    <updated>2018-07-18T07:41:31.828Z</updated>
     
     <content type="html"><![CDATA[<h3 id="对象中添加key与value"><a href="#对象中添加key与value" class="headerlink" title="对象中添加key与value"></a>对象中添加key与value</h3>]]></content>
     
@@ -280,9 +262,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -291,7 +271,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog10/"/>
     <id>http://zjx9772.com/2018/07/18/blog10/</id>
     <published>2018-07-18T03:24:09.000Z</published>
-    <updated>2018-07-18T05:44:40.181Z</updated>
+    <updated>2018-07-18T07:35:57.173Z</updated>
     
     <content type="html"><![CDATA[<h3 id="bootstrap-table的使用以及工具栏的使用"><a href="#bootstrap-table的使用以及工具栏的使用" class="headerlink" title="bootstrap-table的使用以及工具栏的使用"></a>bootstrap-table的使用以及工具栏的使用</h3>]]></content>
     
@@ -307,36 +287,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>去重处理</title>
-    <link href="http://zjx9772.com/2018/07/18/blog9/"/>
-    <id>http://zjx9772.com/2018/07/18/blog9/</id>
-    <published>2018-07-18T03:24:00.000Z</published>
-    <updated>2018-07-18T05:44:45.036Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="去重处理"><a href="#去重处理" class="headerlink" title="去重处理"></a>去重处理</h3>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;去重处理&quot;&gt;&lt;a href=&quot;#去重处理&quot; class=&quot;headerlink&quot; title=&quot;去重处理&quot;&gt;&lt;/a&gt;去重处理&lt;/h3&gt;
-      
-    
-    </summary>
-    
-      <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
-    
-    
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="plugins" scheme="http://zjx9772.com/tags/plugins/"/>
     
   </entry>
   
@@ -345,7 +296,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog8/"/>
     <id>http://zjx9772.com/2018/07/18/blog8/</id>
     <published>2018-07-18T03:23:53.000Z</published>
-    <updated>2018-07-18T05:21:40.339Z</updated>
+    <updated>2018-07-18T07:35:30.427Z</updated>
     
     <content type="html"><![CDATA[<h3 id="jquery模板的使用"><a href="#jquery模板的使用" class="headerlink" title="jquery模板的使用"></a>jquery模板的使用</h3>]]></content>
     
@@ -361,9 +312,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="jquery" scheme="http://zjx9772.com/tags/jquery/"/>
     
   </entry>
   
@@ -372,7 +321,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog7/"/>
     <id>http://zjx9772.com/2018/07/18/blog7/</id>
     <published>2018-07-18T03:23:47.000Z</published>
-    <updated>2018-07-18T03:35:52.909Z</updated>
+    <updated>2018-07-18T07:20:31.555Z</updated>
     
     <content type="html"><![CDATA[<h3 id="标签属性值获取"><a href="#标签属性值获取" class="headerlink" title="标签属性值获取"></a>标签属性值获取</h3>]]></content>
     
@@ -388,9 +337,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="jquery" scheme="http://zjx9772.com/tags/jquery/"/>
     
   </entry>
   
@@ -399,7 +346,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog6/"/>
     <id>http://zjx9772.com/2018/07/18/blog6/</id>
     <published>2018-07-18T03:23:41.000Z</published>
-    <updated>2018-07-18T03:35:05.558Z</updated>
+    <updated>2018-07-18T07:20:19.207Z</updated>
     
     <content type="html"><![CDATA[<h3 id="选中判断（checkbox-radio-select）"><a href="#选中判断（checkbox-radio-select）" class="headerlink" title="选中判断（checkbox,radio,select）"></a>选中判断（checkbox,radio,select）</h3>]]></content>
     
@@ -415,9 +362,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -426,7 +371,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog5/"/>
     <id>http://zjx9772.com/2018/07/18/blog5/</id>
     <published>2018-07-18T03:23:28.000Z</published>
-    <updated>2018-07-18T03:32:43.326Z</updated>
+    <updated>2018-07-18T07:20:03.714Z</updated>
     
     <content type="html"><![CDATA[<h3 id="时间联动bootstrap-datetimepicker"><a href="#时间联动bootstrap-datetimepicker" class="headerlink" title="时间联动bootstrap-datetimepicker"></a>时间联动bootstrap-datetimepicker</h3>]]></content>
     
@@ -442,9 +387,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="plugins" scheme="http://zjx9772.com/tags/plugins/"/>
     
   </entry>
   
@@ -453,7 +396,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog4/"/>
     <id>http://zjx9772.com/2018/07/18/blog4/</id>
     <published>2018-07-18T03:23:20.000Z</published>
-    <updated>2018-07-18T03:33:02.102Z</updated>
+    <updated>2018-07-18T07:40:35.626Z</updated>
     
     <content type="html"><![CDATA[<h3 id="如何返回原页面保持active状态"><a href="#如何返回原页面保持active状态" class="headerlink" title="如何返回原页面保持active状态"></a>如何返回原页面保持active状态</h3>]]></content>
     
@@ -469,9 +412,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -480,7 +421,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog3/"/>
     <id>http://zjx9772.com/2018/07/18/blog3/</id>
     <published>2018-07-18T03:23:12.000Z</published>
-    <updated>2018-07-18T03:33:29.399Z</updated>
+    <updated>2018-07-18T07:19:28.908Z</updated>
     
     <content type="html"><![CDATA[<h3 id="cookie"><a href="#cookie" class="headerlink" title="cookie"></a>cookie</h3>]]></content>
     
@@ -496,9 +437,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -507,7 +446,7 @@
     <link href="http://zjx9772.com/2018/07/18/blog2/"/>
     <id>http://zjx9772.com/2018/07/18/blog2/</id>
     <published>2018-07-18T03:19:22.000Z</published>
-    <updated>2018-07-18T03:31:22.096Z</updated>
+    <updated>2018-07-18T07:19:38.738Z</updated>
     
     <content type="html"><![CDATA[<h3 id="异步加载"><a href="#异步加载" class="headerlink" title="异步加载"></a>异步加载</h3>]]></content>
     
@@ -523,9 +462,32 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+  </entry>
+  
+  <entry>
+    <title>去重处理</title>
+    <link href="http://zjx9772.com/2018/07/15/blog9/"/>
+    <id>http://zjx9772.com/2018/07/15/blog9/</id>
+    <published>2018-07-15T03:24:00.000Z</published>
+    <updated>2018-07-18T07:44:43.613Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="去重处理"><a href="#去重处理" class="headerlink" title="去重处理"></a>去重处理</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;去重处理&quot;&gt;&lt;a href=&quot;#去重处理&quot; class=&quot;headerlink&quot; title=&quot;去重处理&quot;&gt;&lt;/a&gt;去重处理&lt;/h3&gt;
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="javascript" scheme="http://zjx9772.com/tags/javascript/"/>
     
   </entry>
   
@@ -534,7 +496,7 @@
     <link href="http://zjx9772.com/2018/06/24/zjx-blog/"/>
     <id>http://zjx9772.com/2018/06/24/zjx-blog/</id>
     <published>2018-06-24T10:39:52.000Z</published>
-    <updated>2018-07-18T03:02:14.873Z</updated>
+    <updated>2018-07-18T07:18:59.316Z</updated>
     
     <content type="html"><![CDATA[<h3 id="一、环状图、饼图"><a href="#一、环状图、饼图" class="headerlink" title="一、环状图、饼图"></a>一、环状图、饼图</h3><p><a href="http://echarts.baidu.com/examples/editor.html?c=pie-doughnut" target="_blank" rel="noopener">参考百度echarts——链接</a> </p><p><img src="/images/zjx_blog/pie.png" alt="环形图"></p><pre><code>代码配置如下：</code></pre>  <a id="more"></a><pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br></pre></td><td class="code"><pre><span class="line">app.title = &apos;环形图&apos;;</span><br><span class="line">option=&#123;</span><br><span class="line"> tooltip: &#123;</span><br><span class="line">    trigger: &apos;item&apos;,</span><br><span class="line">    formatter: &quot;&#123;a&#125; &lt;br/&gt;&#123;b&#125;: &#123;c&#125; (&#123;d&#125;%)&quot;</span><br><span class="line">&#125;,//鼠标悬浮显示信息</span><br><span class="line"></span><br><span class="line">legend: &#123;</span><br><span class="line">    orient: &apos;vertical&apos;,</span><br><span class="line">    x: &apos;left&apos;,</span><br><span class="line">    data:[&apos;A&apos;,&apos;B&apos;,&apos;C&apos;,&apos;D&apos;,&apos;E&apos;]</span><br><span class="line">&#125;,//左上角标题</span><br><span class="line"></span><br><span class="line">title:&#123;</span><br><span class="line">        subtext:&apos;总数量&apos;,</span><br><span class="line">        text:&apos;11&apos;,</span><br><span class="line">        x:&apos;center&apos;,</span><br><span class="line">        y:&apos;45%&apos;</span><br><span class="line">    &#125;,//环状图中间部分显示的文本</span><br><span class="line">series: [</span><br><span class="line">    &#123;</span><br><span class="line">        name:&apos;访问来源&apos;,</span><br><span class="line">        type:&apos;pie&apos;,</span><br><span class="line">        radius: [&apos;30%&apos;, &apos;40%&apos;],//中心大小</span><br><span class="line">        center: [&apos;50%&apos;, &apos;50%&apos;],//改变位置左-右-上-下</span><br><span class="line">        avoidLabelOverlap: false,</span><br><span class="line">        label: &#123;</span><br><span class="line">            normal: &#123;</span><br><span class="line">                formatter: &apos;&#123;b&#125;:&#123;c&#125;\n(&#123;d&#125;%)&apos;,//引导线显示格式</span><br><span class="line">                textStyle : &#123;</span><br><span class="line">                           fontWeight : &apos;normal&apos;,</span><br><span class="line">                           fontSize : 15//引导线字体大小</span><br><span class="line">                            &#125;</span><br><span class="line">      </span><br><span class="line">            &#125;,</span><br><span class="line">            emphasis: &#123;</span><br><span class="line">                show: true,</span><br><span class="line">                textStyle: &#123;</span><br><span class="line">                    fontSize: &apos;30&apos;,</span><br><span class="line">                    fontWeight: &apos;bold&apos;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;//鼠标悬浮在上面字体和图表放大</span><br><span class="line">        &#125;,</span><br><span class="line">        labelLine: &#123;</span><br><span class="line">            normal: &#123;</span><br><span class="line">                show: true</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;,//true:显示引导线</span><br><span class="line">        data:[</span><br><span class="line">            &#123;value:335, name:&apos;A&apos;&#125;,</span><br><span class="line">            &#123;value:310, name:&apos;B&apos;&#125;,</span><br><span class="line">            &#123;value:234, name:&apos;C&apos;&#125;,</span><br><span class="line">            &#123;value:135, name:&apos;D&apos;&#125;,</span><br><span class="line">            &#123;value:1548, name:&apos;E&apos;&#125;</span><br><span class="line">        ]//数据可从后台获取，以arr.push(value:XXX;name:XXX)格式。legend的data按照以上格式;</span><br><span class="line">    &#125;</span><br><span class="line">]&#125;</span><br></pre></td></tr></table></figure></code></pre><h3 id="二、柱状图与曲线图结合"><a href="#二、柱状图与曲线图结合" class="headerlink" title="二、柱状图与曲线图结合"></a>二、柱状图与曲线图结合</h3><p><a href="http://echarts.baidu.com/examples/editor.html?c=mix-line-bar" target="_blank" rel="noopener">参考百度echarts——链接</a> </p><p><img src="/images/zjx_blog/line-bar.png" alt="环形图"></p><pre><code>代码配置如下：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br><span class="line">84</span><br><span class="line">85</span><br><span class="line">86</span><br><span class="line">87</span><br><span class="line">88</span><br><span class="line">89</span><br><span class="line">90</span><br><span class="line">91</span><br><span class="line">92</span><br><span class="line">93</span><br><span class="line">94</span><br><span class="line">95</span><br><span class="line">96</span><br><span class="line">97</span><br><span class="line">98</span><br><span class="line">99</span><br><span class="line">100</span><br><span class="line">101</span><br></pre></td><td class="code"><pre><span class="line">app.title = &apos;柱状图与折线图结合&apos;;</span><br><span class="line">var barOption = &#123;</span><br><span class="line">    tooltip: &#123;</span><br><span class="line">        trigger: &apos;axis&apos;,</span><br><span class="line">        axisPointer: &#123;</span><br><span class="line">            type: &apos;cross&apos;,</span><br><span class="line">            crossStyle: &#123;</span><br><span class="line">                color: &apos;#999&apos;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;,</span><br><span class="line">    toolbox: &#123;</span><br><span class="line">        feature: &#123;</span><br><span class="line">            dataView: &#123;show: true, readOnly: false&#125;,</span><br><span class="line">            magicType: &#123;show: true, type: [&apos;line&apos;, &apos;bar&apos;]&#125;,</span><br><span class="line">            restore: &#123;show: true&#125;,</span><br><span class="line">            saveAsImage: &#123;show: true&#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;,</span><br><span class="line">    legend: &#123;</span><br><span class="line">        data:[&apos;AAAA&apos;,&apos;BBBB&apos;,&apos;CCCC&apos;,&apos;DDDD&apos;]</span><br><span class="line">    &#125;,</span><br><span class="line">    xAxis: [</span><br><span class="line">        &#123;</span><br><span class="line">            type: &apos;category&apos;,</span><br><span class="line">            data: [&apos;2018-06-01&apos;,&apos;2018-06-02&apos;,&apos;2018-06-03&apos;,&apos;2018-06-04&apos;,&apos;2018-06-05&apos;,&apos;2018-06-06&apos;,&apos;2018-06-07&apos;,&apos;2018-06-08&apos;,&apos;2018-06-09&apos;,&apos;2018-06-10&apos;,&apos;2018-06-11&apos;,&apos;2018-06-12&apos;,&apos;2018-06-13&apos;,&apos;2018-06-14&apos;,&apos;2018-06-15&apos;,&apos;2018-06-16&apos;,&apos;2018-06-17&apos;,&apos;2018-06-18&apos;,&apos;2018-06-19&apos;,&apos;2018-06-20&apos;,&apos;2018-06-21&apos;,&apos;2018-06-22&apos;,&apos;2018-06-23&apos;,&apos;2018-06-24&apos;,&apos;2018-06-25&apos;,&apos;2018-06-26&apos;,&apos;2018-06-27&apos;,&apos;2018-06-28&apos;,&apos;2018-06-29&apos;,&apos;2018-06-30&apos;],//data可由后台返回</span><br><span class="line">            axisPointer: &#123;</span><br><span class="line">                type: &apos;shadow&apos;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    ],</span><br><span class="line">    yAxis: [</span><br><span class="line">        &#123;</span><br><span class="line">            type: &apos;value&apos;,</span><br><span class="line">            name: &apos;工单数量/条&apos;,</span><br><span class="line">            min: 0,</span><br><span class="line">            max: 250,</span><br><span class="line">            interval: 50,</span><br><span class="line">            axisLabel: &#123;</span><br><span class="line">                formatter: &apos;&#123;value&#125;&apos;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;,</span><br><span class="line">        &#123;</span><br><span class="line">            type: &apos;value&apos;,</span><br><span class="line">            name: &apos;百分比%&apos;,</span><br><span class="line">            min: 0,</span><br><span class="line">            max: 25,</span><br><span class="line">            interval: 5,</span><br><span class="line">            axisLabel: &#123;</span><br><span class="line">                formatter: &apos;&#123;value&#125;&apos;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    ],</span><br><span class="line">    series: [</span><br><span class="line">        &#123;</span><br><span class="line">            name:&apos;AAAA&apos;,</span><br><span class="line">            type:&apos;bar&apos;,</span><br><span class="line">            data:[2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 48.4, 3.3,2.0, 125.9, 56.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3,2.0, 4.9, 7.0, 23.2, 25.6, 76.7],</span><br><span class="line">            itemStyle:&#123;</span><br><span class="line">                normal:&#123;</span><br><span class="line">                    color:&apos;#F22E2D&apos;//自定义颜色</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line"></span><br><span class="line">        &#125;,</span><br><span class="line">        &#123;</span><br><span class="line">            name:&apos;BBBB&apos;,</span><br><span class="line">            type:&apos;bar&apos;,</span><br><span class="line">            data:[2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 61.0, 150.3,.625, 52.9, 94.0, 126.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3,2.6, 5.9, 9.0, 26.4, 28.7, 70.7],</span><br><span class="line">            itemStyle:&#123;</span><br><span class="line">                normal:&#123;</span><br><span class="line">                    color:&apos;#FCD64E&apos;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;,</span><br><span class="line">        &#123;</span><br><span class="line">            name:&apos;CCCC&apos;,</span><br><span class="line">            type:&apos;bar&apos;,</span><br><span class="line">            data:[2.3, 4.9, 6.0, 18.4, 20.7, 56.7, 120.6, 162, 40.7, 20.8, 16.0, 75.3,102.3, 121.9, 6.0, 18.4, 20.7, 56.7, 120.6, 162, 40.7, 20.8, 16.0, 5.3,2.3, 4.9, 6.0, 18.4, 20.7, 56.7],</span><br><span class="line">            itemStyle:&#123;</span><br><span class="line">                normal:&#123;</span><br><span class="line">                    color:&apos;#2BD75E&apos;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line"></span><br><span class="line">        &#125;,</span><br><span class="line">        &#123;</span><br><span class="line">            name:&apos;DDDD&apos;,</span><br><span class="line">            type:&apos;line&apos;,</span><br><span class="line">            smooth:true,  //这个是把折线变成曲线</span><br><span class="line">            yAxisIndex: 1,</span><br><span class="line">            data:[2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 20.3, 23.4, 23.0, 16.5, 12.0, 16.2,18.0, 16.2, 18.3, 16.5, 6.3, 10.2, 20.3, 23.4, 23.0, 16.5, 12.0, 6.2,2.0, 2.2, 3.3, 4.5, 6.3, 10.2],</span><br><span class="line">            itemStyle:&#123;</span><br><span class="line">                normal:&#123;</span><br><span class="line">                    color:&apos;#4BBAFB&apos;</span><br><span class="line">                &#125;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line"></span><br><span class="line">    ]</span><br><span class="line">&#125;;</span><br></pre></td></tr></table></figure></code></pre><h3 id="三、初始化方法"><a href="#三、初始化方法" class="headerlink" title="三、初始化方法"></a>三、初始化方法</h3><p>（首先引入jquery、bootstrap包；echarts包等）</p><h4 id="html"><a href="#html" class="headerlink" title="html:"></a>html:</h4>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;div id=&quot;echarts&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><h4 id="js"><a href="#js" class="headerlink" title="js:"></a>js:</h4><pre><code><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br></pre></td><td class="code"><pre><span class="line">全局的：var eCharts;</span><br><span class="line">InitEcharts();</span><br><span class="line">function InitEcharts()&#123;</span><br><span class="line">  var eCharts=echarts.init(document.getElementById(&apos;echarts&apos;));</span><br><span class="line">  var newData=[]；</span><br><span class="line">  //后台获取data数据，通过处理以 （&#123;name:***,value:***,searchParam：***&#125;）push到数据数组里newData中</span><br><span class="line">var option=&#123;</span><br><span class="line">  ...(以上option配置)</span><br><span class="line">  data:seriesAllData</span><br><span class="line"> &#125;</span><br><span class="line">   eCharts.setOption(option);//重置option</span><br><span class="line">   //点击每块区域跳转页面显示列表</span><br><span class="line">   eCharts.on(&quot;click&quot;,function(param)&#123;</span><br><span class="line">      var search=option.series[0].data[param.dataIndex].searchParam;//获取所点击区域标识作为参数</span><br><span class="line">      $(window).attr(&quot;location&quot;, &quot;#/html页面地址&quot;);</span><br><span class="line">      //参数传递到另外一个页面需要cookie保存</span><br><span class="line">      searchSign=&#123;</span><br><span class="line">          searchValue:searchValue</span><br><span class="line">      &#125;//返回原页面需要将cookie置空document.cookie=&quot;searchSign=&quot;+&quot;&quot;;</span><br><span class="line">      $.cookie(&apos;searchSign&apos;,JSON.stringify(searchSign));//另外一个页面获取cookie</span><br><span class="line">   &#125;)</span><br><span class="line">  return  eCharts;</span><br><span class="line"> &#125;</span><br></pre></td></tr></table></figure></code></pre><p><a href="https://zjx9772.github.io/" target="_blank" rel="noopener">Annie Zhang的博客</a> </p>]]></content>
     
@@ -550,9 +512,7 @@
       <category term="前端" scheme="http://zjx9772.com/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://zjx9772.com/tags/%E5%AF%BC%E8%88%AA/"/>
-    
-      <category term="分享" scheme="http://zjx9772.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="plugins" scheme="http://zjx9772.com/tags/plugins/"/>
     
   </entry>
   
