@@ -81,18 +81,18 @@
 
 
 
-<meta name="description" content="checkbox全选/全不选">
+<meta name="description" content="js 12345678910111213141516InitSelectBox();function InitSelectBox()&amp;#123;  	$(&amp;apos;#select option&amp;apos;).remove();//清空select里面数据	var arr=[       &amp;#123;id:0,opt:&amp;apos;1opt&amp;apos;&amp;#125;,        &amp;#123;id:">
 <meta name="keywords" content="javascript">
 <meta property="og:type" content="article">
 <meta property="og:title" content="全选&#x2F;全不选">
 <meta property="og:url" content="http://zjx9772.com/2018/07/18/blog17/index.html">
 <meta property="og:site_name" content="了然的博客">
-<meta property="og:description" content="checkbox全选/全不选">
+<meta property="og:description" content="js 12345678910111213141516InitSelectBox();function InitSelectBox()&amp;#123;  	$(&amp;apos;#select option&amp;apos;).remove();//清空select里面数据	var arr=[       &amp;#123;id:0,opt:&amp;apos;1opt&amp;apos;&amp;#125;,        &amp;#123;id:">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-07-18T07:37:33.931Z">
+<meta property="og:updated_time" content="2018-07-18T10:39:25.221Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="全选&#x2F;全不选">
-<meta name="twitter:description" content="checkbox全选/全不选">
+<meta name="twitter:description" content="js 12345678910111213141516InitSelectBox();function InitSelectBox()&amp;#123;  	$(&amp;apos;#select option&amp;apos;).remove();//清空select里面数据	var arr=[       &amp;#123;id:0,opt:&amp;apos;1opt&amp;apos;&amp;#125;,        &amp;#123;id:">
 
 
 
@@ -355,7 +355,10 @@
       
 
       
-        <h3 id="checkbox全选-全不选"><a href="#checkbox全选-全不选" class="headerlink" title="checkbox全选/全不选"></a>checkbox全选/全不选</h3>
+        <h4 id="js"><a href="#js" class="headerlink" title="js"></a>js</h4> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">InitSelectBox();</span><br><span class="line">function InitSelectBox()&#123;</span><br><span class="line">  	$(&apos;#select option&apos;).remove();//清空select里面数据</span><br><span class="line">	var arr=[</span><br><span class="line">       &#123;id:0,opt:&apos;1opt&apos;&#125;,</span><br><span class="line">        &#123;id:1,opt:&apos;2opt&apos;&#125;,</span><br><span class="line">        &#123;id:2,opt:&apos;3opt&apos;&#125;,</span><br><span class="line">       &#123;id:3,opt:&apos;4opt&apos;&#125;,</span><br><span class="line">       &#123;id:4,opt:&apos;5opt&apos;&#125;,</span><br><span class="line">	]</span><br><span class="line">	$(&apos;#select&apos;).prepend(&apos;&lt;option value=&quot;0&quot;&gt;请选择&lt;/option&gt;&apos;)</span><br><span class="line">    for(var i=0;i&lt;arr.length;i++)&#123;</span><br><span class="line">    	$(&apos;#select&apos;).append(&apos;&lt;option&gt;&apos;+arr[i].opt+&apos;&lt;/option&gt;&apos;);</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<a id="more"></a>
+<h4 id="html"><a href="#html" class="headerlink" title="html"></a>html</h4> <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line"> </span><br><span class="line">.selBox&#123;</span><br><span class="line">	width:200px;</span><br><span class="line">	height:100px;</span><br><span class="line">	border: 1px solid grey;</span><br><span class="line">	padding: 10px;</span><br><span class="line">&#125;</span><br><span class="line">   </span><br><span class="line"></span><br><span class="line">   &lt;div class=&quot;selBox&quot;&gt;</span><br><span class="line">&lt;select style=&quot;width:80%;height:30px;&quot; id=&apos;select&apos;&gt;</span><br><span class="line">	&lt;!-- &lt;option value=&apos;&apos;&gt;&lt;/option&gt;</span><br><span class="line">	&lt;option value=&apos;1&apos;&gt;1&lt;/option&gt;</span><br><span class="line">	&lt;option value=&apos;2&apos;&gt;2&lt;/option&gt;</span><br><span class="line">	&lt;option value=&apos;3&apos;&gt;3&lt;/option&gt;</span><br><span class="line">	&lt;option value=&apos;4&apos;&gt;4&lt;/option&gt; --&gt;</span><br><span class="line">&lt;/select&gt;</span><br><span class="line">   &lt;/div&gt;</span><br></pre></td></tr></table></figure>
+
       
     </div>
     
@@ -422,8 +425,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/07/18/blog16/" rel="next" title="弹框关闭的方法">
-                <i class="fa fa-chevron-left"></i> 弹框关闭的方法
+              <a href="/2018/07/18/blog16/" rel="next" title="弹框关闭的方法--点击弹框以外的部分，弹框消失">
+                <i class="fa fa-chevron-left"></i> 弹框关闭的方法--点击弹框以外的部分，弹框消失
               </a>
             
           </div>
@@ -614,7 +617,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#checkbox全选-全不选"><span class="nav-number">1.</span> <span class="nav-text">checkbox全选/全不选</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-4"><a class="nav-link" href="#js"><span class="nav-number">1.</span> <span class="nav-text">js</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#html"><span class="nav-number">2.</span> <span class="nav-text">html</span></a></li></ol></div>
             
 
           </div>
