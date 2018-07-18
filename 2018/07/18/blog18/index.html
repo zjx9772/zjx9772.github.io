@@ -81,18 +81,18 @@
 
 
 
-<meta name="description" content="$.grep(arr,function(){item,index})删除数组中不满足条件的对象">
+<meta name="description" content="$.grep()   1234567891011121314  var arr=[       &amp;#123;num:0,name:&amp;apos;1&amp;apos;&amp;#125;,       &amp;#123;num:1,name:&amp;apos;2&amp;apos;&amp;#125;,       &amp;#123;num:0,name:&amp;apos;3&amp;apos;&amp;#125;,       &amp;#123;num:3,name:&amp;ap">
 <meta name="keywords" content="jquery">
 <meta property="og:type" content="article">
-<meta property="og:title" content="删除数组中不满足条件的对象">
+<meta property="og:title" content="多种方法解决删除数组中不满足条件的对象或者元素">
 <meta property="og:url" content="http://zjx9772.com/2018/07/18/blog18/index.html">
 <meta property="og:site_name" content="了然的博客">
-<meta property="og:description" content="$.grep(arr,function(){item,index})删除数组中不满足条件的对象">
+<meta property="og:description" content="$.grep()   1234567891011121314  var arr=[       &amp;#123;num:0,name:&amp;apos;1&amp;apos;&amp;#125;,       &amp;#123;num:1,name:&amp;apos;2&amp;apos;&amp;#125;,       &amp;#123;num:0,name:&amp;apos;3&amp;apos;&amp;#125;,       &amp;#123;num:3,name:&amp;ap">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2018-07-18T07:37:48.091Z">
+<meta property="og:updated_time" content="2018-07-18T09:02:11.617Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="删除数组中不满足条件的对象">
-<meta name="twitter:description" content="$.grep(arr,function(){item,index})删除数组中不满足条件的对象">
+<meta name="twitter:title" content="多种方法解决删除数组中不满足条件的对象或者元素">
+<meta name="twitter:description" content="$.grep()   1234567891011121314  var arr=[       &amp;#123;num:0,name:&amp;apos;1&amp;apos;&amp;#125;,       &amp;#123;num:1,name:&amp;apos;2&amp;apos;&amp;#125;,       &amp;#123;num:0,name:&amp;apos;3&amp;apos;&amp;#125;,       &amp;#123;num:3,name:&amp;ap">
 
 
 
@@ -128,7 +128,7 @@
 
 
 
-  <title>删除数组中不满足条件的对象 | 了然的博客</title>
+  <title>多种方法解决删除数组中不满足条件的对象或者元素 | 了然的博客</title>
   
 
 
@@ -273,7 +273,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">删除数组中不满足条件的对象</h1>
+          <h1 class="post-title" itemprop="name headline">多种方法解决删除数组中不满足条件的对象或者元素</h1>
         
 
         <div class="post-meta">
@@ -355,7 +355,8 @@
       
 
       
-        <h3 id="grep-arr-function-item-index-删除数组中不满足条件的对象"><a href="#grep-arr-function-item-index-删除数组中不满足条件的对象" class="headerlink" title="$.grep(arr,function(){item,index})删除数组中不满足条件的对象"></a>$.grep(arr,function(){item,index})删除数组中不满足条件的对象</h3>
+        <h3 id="grep"><a href="#grep" class="headerlink" title="$.grep()"></a>$.grep()</h3>   <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">  var arr=[</span><br><span class="line">       &#123;num:0,name:&apos;1&apos;&#125;,</span><br><span class="line">       &#123;num:1,name:&apos;2&apos;&#125;,</span><br><span class="line">       &#123;num:0,name:&apos;3&apos;&#125;,</span><br><span class="line">       &#123;num:3,name:&apos;4&apos;&#125;,</span><br><span class="line">       &#123;num:0,name:&apos;5&apos;&#125;,</span><br><span class="line">]</span><br><span class="line">arr=$.grep(arr,function(item,i)&#123;//item:数组元素；i:元素索引值</span><br><span class="line">	if(item.num!==0)&#123;</span><br><span class="line">		return item;</span><br><span class="line">	&#125;</span><br><span class="line">&#125;)</span><br><span class="line">console.log(arr);//[&#123;num:1,name:&apos;2&apos;&#125;,&#123;num:3,name:&apos;4&apos;&#125;]</span><br></pre></td></tr></table></figure>
+<h3 id="for循环"><a href="#for循环" class="headerlink" title="for循环"></a>for循环</h3>
       
     </div>
     
@@ -614,7 +615,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#grep-arr-function-item-index-删除数组中不满足条件的对象"><span class="nav-number">1.</span> <span class="nav-text">$.grep(arr,function(){item,index})删除数组中不满足条件的对象</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#grep"><span class="nav-number">1.</span> <span class="nav-text">$.grep()</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#for循环"><span class="nav-number">2.</span> <span class="nav-text">for循环</span></a></li></ol></div>
             
 
           </div>
