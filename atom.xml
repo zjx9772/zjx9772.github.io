@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>了然的博客</title>
   
-  
+  <subtitle>了然于心</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://zjx9772.com/"/>
