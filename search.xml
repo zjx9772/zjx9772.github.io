@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[ionic]]></title>
+    <url>%2F2018%2F07%2F19%2Fionic%2F</url>
+    <content type="text"><![CDATA[1.启动界面的快速生成技巧 2.极光推送模块的集成 3.App图表 4.Android/iOS平台的打包与发布 App周边资源]]></content>
+      <categories>
+        <category>ionic</category>
+      </categories>
+      <tags>
+        <tag>ionic</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[一首诗]]></title>
+    <url>%2F2018%2F07%2F19%2F%E4%B8%80%E9%A6%96%E8%AF%97%2F</url>
+    <content type="text"><![CDATA[参考百度百科（诗）————链接 诗，又称诗歌，是一种用高度凝练的语言，形象表达作者丰富情感，集中反映社会生活并具有一定节奏和韵律的文学体裁。诗乃文学之祖，艺术之根。诗是一种阐述心灵的文学体裁，而诗人则需要掌握成熟的艺术技巧，并按照一定的音节、声调和韵律的要求，用凝练的语言、充沛的情感以及丰富的意象来高度集中地表现社会生活和人类精神世界。 孔子认为，诗具有兴、观、群、怨四种作用。陆机则认为：“诗缘情而绮靡”。在中国古代，不合乐的称为诗，合乐的称为歌。 另外，《诗》也是我国古代文学作品《诗经》的本名（西汉时期《诗》被命名为《诗经》）诗的本质的特征是抒情美。无论是小说、散文、戏剧，最优美之处，无不闪现出诗的光环来。因而诗是文学中的文学。在艺术领域中，诗无所不在。诗美是艺术美的普遍因素的最高体现。诗歌的美也不时出现在非文学艺术的领域中，在科学著作的精美片段中散发出智慧光&gt;彩，甚而在人的生活状态、工作状态中也都有诗的踪影。 1234567891011山有木兮木有枝，心悦君兮君不知。____佚名《越人歌》人生若只如初见，何事秋风悲画扇。____纳兰性德《木兰词·拟古决绝词柬友》十年生死两茫茫，不思量，自难忘。____苏轼《江城子·乙卯正月二十日夜记梦》曾经沧海难为水，除却巫山不是云。____元稹《离思五首·其四》玲珑骰子安红豆，入骨相思知不知。____温庭筠《南歌子词二首 / 新添声杨柳枝词》只愿君心似我心，定不负相思意。____李之仪《卜算子·我住长江头》平生不会相思，才会相思，便害相思。____徐再思《折桂令·春 情》愿得一心人，白头不相离。____卓文君《白头吟》山无陵，江水为竭。冬雷震震，夏雨雪。天地合，乃敢与君绝。____佚名《上邪》入我相思门，知我相思苦。____李白《三五七言 / 秋风词》]]></content>
+      <categories>
+        <category>文学</category>
+      </categories>
+      <tags>
+        <tag>诗</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[时间轴]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog20%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog20(%E6%97%B6%E9%97%B4%E8%BD%B4)%2F</url>
     <content type="text"><![CDATA[时间轴的使用]]></content>
       <categories>
         <category>前端</category>
@@ -13,7 +35,7 @@
   </entry>
   <entry>
     <title><![CDATA[表单序列化问题]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog19%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog19(%E8%A1%A8%E5%8D%95%E5%BA%8F%E5%88%97%E5%8C%96)%2F</url>
     <content type="text"><![CDATA[serializeObject()表单序列化方法]]></content>
       <categories>
         <category>前端</category>
@@ -24,7 +46,7 @@
   </entry>
   <entry>
     <title><![CDATA[多种方法解决删除数组中不满足条件的对象或者元素]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog18%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog18(%E5%88%A0%E9%99%A4%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0)%2F</url>
     <content type="text"><![CDATA[$.grep() 1234567891011121314 var arr=[ &#123;num:0,name:&apos;1&apos;&#125;, &#123;num:1,name:&apos;2&apos;&#125;, &#123;num:0,name:&apos;3&apos;&#125;, &#123;num:3,name:&apos;4&apos;&#125;, &#123;num:0,name:&apos;5&apos;&#125;,]arr=$.grep(arr,function(item,i)&#123;//item:数组元素；i:元素索引值 if(item.num!==0)&#123; return item; &#125;&#125;)console.log(arr);//[&#123;num:1,name:&apos;2&apos;&#125;,&#123;num:3,name:&apos;4&apos;&#125;] for循环]]></content>
       <categories>
         <category>前端</category>
@@ -35,7 +57,7 @@
   </entry>
   <entry>
     <title><![CDATA[全选/全不选]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog17%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog17(%E5%85%A8%E9%80%89%E5%85%A8%E4%B8%8D%E9%80%89)%2F</url>
     <content type="text"><![CDATA[js 12345678910111213141516InitSelectBox();function InitSelectBox()&#123; $(&apos;#select option&apos;).remove();//清空select里面数据 var arr=[ &#123;id:0,opt:&apos;1opt&apos;&#125;, &#123;id:1,opt:&apos;2opt&apos;&#125;, &#123;id:2,opt:&apos;3opt&apos;&#125;, &#123;id:3,opt:&apos;4opt&apos;&#125;, &#123;id:4,opt:&apos;5opt&apos;&#125;, ] $(&apos;#select&apos;).prepend(&apos;&lt;option value=&quot;0&quot;&gt;请选择&lt;/option&gt;&apos;) for(var i=0;i&lt;arr.length;i++)&#123; $(&apos;#select&apos;).append(&apos;&lt;option&gt;&apos;+arr[i].opt+&apos;&lt;/option&gt;&apos;); &#125;&#125; html 123456789101112131415161718 .selBox&#123; width:200px; height:100px; border: 1px solid grey; padding: 10px;&#125; &lt;div class=&quot;selBox&quot;&gt;&lt;select style=&quot;width:80%;height:30px;&quot; id=&apos;select&apos;&gt; &lt;!-- &lt;option value=&apos;&apos;&gt;&lt;/option&gt; &lt;option value=&apos;1&apos;&gt;1&lt;/option&gt; &lt;option value=&apos;2&apos;&gt;2&lt;/option&gt; &lt;option value=&apos;3&apos;&gt;3&lt;/option&gt; &lt;option value=&apos;4&apos;&gt;4&lt;/option&gt; --&gt;&lt;/select&gt; &lt;/div&gt;]]></content>
       <categories>
         <category>前端</category>
@@ -46,7 +68,7 @@
   </entry>
   <entry>
     <title><![CDATA[弹框关闭的方法--点击弹框以外的部分，弹框消失]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog16%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog16(%E5%BC%B9%E6%A1%86%E5%85%B3%E9%97%AD)%2F</url>
     <content type="text"><![CDATA[12345678910111213141516171819/*当用户点击DIV内容之外的区域，DIV也会关闭*/$(document).on(&apos;click&apos;,function(e)&#123; if( $(&quot;弹出框&quot;).css(&apos;display&apos;)===&quot;none&quot;)&#123; return; &#125; var e = e||window.event;//浏览器兼容性 ，IE为window.event var elem=e.target||e.srcElement;//IE为e.srcElement if(elem.className===&apos;按钮的类名&apos;)&#123; return; &#125; while(elem)&#123; if(elem.className&amp;&amp;elem.className===&apos;弹出框类名&apos;)&#123; return; &#125; elem=elem.parentNode; &#125; $(&apos;弹出框&apos;).css(&apos;display&apos;,&apos;none&apos;); //点击的不是div或其子元素&#125;);]]></content>
       <categories>
         <category>前端</category>
@@ -57,7 +79,7 @@
   </entry>
   <entry>
     <title><![CDATA[jquery的ztree]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog15%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog15(ztree)%2F</url>
     <content type="text"><![CDATA[jquery的ztree用法]]></content>
       <categories>
         <category>前端</category>
@@ -68,7 +90,7 @@
   </entry>
   <entry>
     <title><![CDATA[npm]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog14%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog14(npm)%2F</url>
     <content type="text"><![CDATA[npm的用法及包的使用]]></content>
       <categories>
         <category>前端</category>
@@ -79,7 +101,7 @@
   </entry>
   <entry>
     <title><![CDATA[定时]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog13%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog13(%E5%AE%9A%E6%97%B6)%2F</url>
     <content type="text"><![CDATA[settimeout/setInterval]]></content>
       <categories>
         <category>前端</category>
@@ -90,7 +112,7 @@
   </entry>
   <entry>
     <title><![CDATA[选择器]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog12%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog12(%E9%80%89%E6%8B%A9%E5%99%A8)%2F</url>
     <content type="text"><![CDATA[jq,js各种选择器,eq(1)………]]></content>
       <categories>
         <category>前端</category>
@@ -101,7 +123,7 @@
   </entry>
   <entry>
     <title><![CDATA[对象键与值]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog11%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog11(%E5%AF%B9%E8%B1%A1%E9%94%AE%E4%B8%8E%E5%80%BC)%2F</url>
     <content type="text"><![CDATA[对象中添加key与value]]></content>
       <categories>
         <category>前端</category>
@@ -112,7 +134,7 @@
   </entry>
   <entry>
     <title><![CDATA[bootstrap-table]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog10%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog10(bootstrap-table)%2F</url>
     <content type="text"><![CDATA[bootstrap-table的使用以及工具栏的使用]]></content>
       <categories>
         <category>前端</category>
@@ -123,7 +145,7 @@
   </entry>
   <entry>
     <title><![CDATA[jquery模板的使用]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog8%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog8(jquery%E6%A8%A1%E6%9D%BF)%2F</url>
     <content type="text"><![CDATA[jquery模板的使用]]></content>
       <categories>
         <category>前端</category>
@@ -134,7 +156,7 @@
   </entry>
   <entry>
     <title><![CDATA[标签属性值获取]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog7%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog7(%E6%A0%87%E7%AD%BE%E5%B1%9E%E6%80%A7%E5%80%BC)%2F</url>
     <content type="text"><![CDATA[标签属性值获取]]></content>
       <categories>
         <category>前端</category>
@@ -145,7 +167,7 @@
   </entry>
   <entry>
     <title><![CDATA[选中问题]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog6%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog6(%E9%80%89%E4%B8%AD%E9%97%AE%E9%A2%98)%2F</url>
     <content type="text"><![CDATA[选中判断（checkbox,radio,select）]]></content>
       <categories>
         <category>前端</category>
@@ -156,7 +178,7 @@
   </entry>
   <entry>
     <title><![CDATA[使用bootstrap-datetimepicker设置时间查询区间，查询时间由今天开始，开始时间要在结束时间之前]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog5%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog5(%E6%97%B6%E9%97%B4%E6%8F%92%E4%BB%B6)%2F</url>
     <content type="text"><![CDATA[参考百度bootstrap-datetimepicker——链接 html123456789101112131415161718192021222324252627&lt;div class=&quot;well&quot;&gt;&lt;div class=&quot;row&quot;&gt; &lt;div class=&quot;form-group has-feedback&quot;&gt; &lt;label class=&quot;col-xs-2 col-lg-1 control-label&quot;&gt;创建时间&lt;/label&gt; &lt;div class=&quot;col-xs-4 col-lg-3&quot;&gt; &lt;div class=&quot;input-group date datepicker1&quot;&gt; &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;beginTime&quot; readonly&gt; &lt;span class=&quot;input-group-addon&quot;&gt; &lt;i class=&quot;glyphicon glyphicon-calendar&quot;&gt;&lt;/i&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;label class=&quot;col-xs-2 col-lg-1 control-label&quot; style=&quot;text-align: center;&quot;&gt;至&lt;/label&gt; &lt;div class=&quot;col-xs-4 col-lg-3&quot;&gt; &lt;div class=&quot;input-group date datepicker2&quot;&gt; &lt;input type=&quot;text&quot; class=&quot;form-control&quot; name=&quot;endTime&quot; readonly&gt; &lt;span class=&quot;input-group-addon&quot;&gt; &lt;i class=&quot;glyphicon glyphicon-calendar&quot;&gt;&lt;/i&gt; &lt;/span&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt;&lt;/div&gt; ` 引入：1234567&lt;script src=&quot;../../libs/jquery/jquery-2.1.1.min.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;../../libs/bootstrap/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;../../libs/bootstrap-datetimepicker/bootstrap-datetimepicker.js&quot;&gt;&lt;/script&gt;&lt;script src=&quot;../../libs/bootstrap-datetimepicker/bootstrap-datetimepicker.zh-CN.js&quot;&gt;&lt;/script&gt; js： 1234567891011121314151617181920212223242526272829303132333435363738394041424344454647484950515253545556575859606162636465666768&lt;script type=&quot;text/javascript&quot;&gt;$(function()&#123; /**格式化时间格式**/ Date.prototype.Format = function (fmt) &#123; var o = &#123; &quot;M+&quot;: this.getMonth() + 1, //月份 &quot;d+&quot;: this.getDate(), //日 &quot;h+&quot;: this.getHours(), //小时 &quot;m+&quot;: this.getMinutes(), //分 &quot;s+&quot;: this.getSeconds(), //秒 &quot;q+&quot;: Math.floor((this.getMonth() + 3) / 3), //季度 &quot;S&quot;: this.getMilliseconds() //毫秒 &#125;; if(/(y+)/.test(fmt)) fmt = fmt.replace(RegExp.$1, (this.getFullYear() + &quot;&quot;).substr(4 - RegExp.$1.length)); for (var k in o) if(new RegExp(&quot;(&quot; + k + &quot;)&quot;).test(fmt)) fmt = fmt.replace(RegExp.$1, (RegExp.$1.length === 1) ? (o[k]) : ((&quot;00&quot; + o[k]).substr((&quot;&quot; + o[k]).length))); return fmt; &#125;; /***日期插件 bootstrap-datetimepicker,时间联动**/ var startDate=new Date(0).Format(&quot;yyyy-MM-dd hh:mm:ss&quot;); $(&quot;.datepicker1&quot;).datetimepicker(&#123; language: &apos;zh-CN&apos;, weekStart: 1, todayBtn: 1, autoclose: 1, todayHighlight: 1, startView: 2, minView: 0, pickerPosition: &apos;bottom-left&apos;, format: &apos;yyyy-mm-dd hh:ii:ss&apos;, forceParse: 0, clearBtn:true, endDate: new Date() &#125;).on(&apos;change&apos;, function (e) &#123; var input1Value=$(&apos;.hasDatepicker1 input&apos;).val(); if(input1Value!=&apos;&apos;)&#123; $(&apos;.hasDatepicker2&apos;).datetimepicker(&apos;setStartDate&apos;, input1Value); &#125;else&#123; $(&apos;.hasDatepicker2&apos;).datetimepicker(&apos;setEndDate&apos;, new Date()); $(&apos;.hasDatepicker2&apos;).datetimepicker(&apos;setStartDate&apos;,startDate); &#125; &#125;); $(&quot;.datepicker2&quot;).datetimepicker(&#123; language: &apos;zh-CN&apos;, weekStart: 1, todayBtn: 1, autoclose: 1, todayHighlight: 1, startView: 2, minView: 0, pickerPosition: &apos;bottom-left&apos;, format: &apos;yyyy-mm-dd hh:ii:ss&apos;, forceParse: 0, clearBtn:true, endDate: new Date() &#125;).on(&apos;change&apos;, function (e) &#123; var input2Value=$(&apos;.hasDatepicker2 input&apos;).val(); if(input2Value!=&apos;&apos;) &#123; $(&apos;.hasDatepicker1&apos;).datetimepicker(&apos;setEndDate&apos;, input2Value); &#125;else&#123; $(&apos;.hasDatepicker1&apos;).datetimepicker(&apos;setEndDate&apos;, new Date()); &#125; &#125;);&#125;);]]></content>
       <categories>
         <category>前端</category>
@@ -167,7 +189,7 @@
   </entry>
   <entry>
     <title><![CDATA[返回原页面处理]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog4%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog4(%E8%BF%94%E5%9B%9E%E5%8E%9F%E9%A1%B5%E9%9D%A2)%2F</url>
     <content type="text"><![CDATA[如何返回原页面保持active状态]]></content>
       <categories>
         <category>前端</category>
@@ -178,7 +200,7 @@
   </entry>
   <entry>
     <title><![CDATA[cookie]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog3%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog3(cookie)%2F</url>
     <content type="text"><![CDATA[cookie]]></content>
       <categories>
         <category>前端</category>
@@ -189,7 +211,7 @@
   </entry>
   <entry>
     <title><![CDATA[异步加载]]></title>
-    <url>%2F2018%2F07%2F18%2Fblog2%2F</url>
+    <url>%2F2018%2F07%2F18%2Fblog2(%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD)%2F</url>
     <content type="text"><![CDATA[异步加载]]></content>
       <categories>
         <category>前端</category>
@@ -200,7 +222,7 @@
   </entry>
   <entry>
     <title><![CDATA[去重处理]]></title>
-    <url>%2F2018%2F07%2F15%2Fblog9%2F</url>
+    <url>%2F2018%2F07%2F15%2Fblog9(%E5%8E%BB%E9%87%8D%E5%A4%84%E7%90%86)%2F</url>
     <content type="text"><![CDATA[去重处理]]></content>
       <categories>
         <category>前端</category>
@@ -211,7 +233,7 @@
   </entry>
   <entry>
     <title><![CDATA[echarts图表的使用]]></title>
-    <url>%2F2018%2F06%2F24%2Fzjx-blog%2F</url>
+    <url>%2F2018%2F06%2F24%2Fzjx-blog(echarts)%2F</url>
     <content type="text"><![CDATA[一、环状图、饼图参考百度echarts——链接 代码配置如下： 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657app.title = &apos;环形图&apos;;option=&#123; tooltip: &#123; trigger: &apos;item&apos;, formatter: &quot;&#123;a&#125; &lt;br/&gt;&#123;b&#125;: &#123;c&#125; (&#123;d&#125;%)&quot;&#125;,//鼠标悬浮显示信息legend: &#123; orient: &apos;vertical&apos;, x: &apos;left&apos;, data:[&apos;A&apos;,&apos;B&apos;,&apos;C&apos;,&apos;D&apos;,&apos;E&apos;]&#125;,//左上角标题title:&#123; subtext:&apos;总数量&apos;, text:&apos;11&apos;, x:&apos;center&apos;, y:&apos;45%&apos; &#125;,//环状图中间部分显示的文本series: [ &#123; name:&apos;访问来源&apos;, type:&apos;pie&apos;, radius: [&apos;30%&apos;, &apos;40%&apos;],//中心大小 center: [&apos;50%&apos;, &apos;50%&apos;],//改变位置左-右-上-下 avoidLabelOverlap: false, label: &#123; normal: &#123; formatter: &apos;&#123;b&#125;:&#123;c&#125;\n(&#123;d&#125;%)&apos;,//引导线显示格式 textStyle : &#123; fontWeight : &apos;normal&apos;, fontSize : 15//引导线字体大小 &#125; &#125;, emphasis: &#123; show: true, textStyle: &#123; fontSize: &apos;30&apos;, fontWeight: &apos;bold&apos; &#125; &#125;//鼠标悬浮在上面字体和图表放大 &#125;, labelLine: &#123; normal: &#123; show: true &#125; &#125;,//true:显示引导线 data:[ &#123;value:335, name:&apos;A&apos;&#125;, &#123;value:310, name:&apos;B&apos;&#125;, &#123;value:234, name:&apos;C&apos;&#125;, &#123;value:135, name:&apos;D&apos;&#125;, &#123;value:1548, name:&apos;E&apos;&#125; ]//数据可从后台获取，以arr.push(value:XXX;name:XXX)格式。legend的data按照以上格式; &#125;]&#125; 二、柱状图与曲线图结合参考百度echarts——链接 代码配置如下： 123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101app.title = &apos;柱状图与折线图结合&apos;;var barOption = &#123; tooltip: &#123; trigger: &apos;axis&apos;, axisPointer: &#123; type: &apos;cross&apos;, crossStyle: &#123; color: &apos;#999&apos; &#125; &#125; &#125;, toolbox: &#123; feature: &#123; dataView: &#123;show: true, readOnly: false&#125;, magicType: &#123;show: true, type: [&apos;line&apos;, &apos;bar&apos;]&#125;, restore: &#123;show: true&#125;, saveAsImage: &#123;show: true&#125; &#125; &#125;, legend: &#123; data:[&apos;AAAA&apos;,&apos;BBBB&apos;,&apos;CCCC&apos;,&apos;DDDD&apos;] &#125;, xAxis: [ &#123; type: &apos;category&apos;, data: [&apos;2018-06-01&apos;,&apos;2018-06-02&apos;,&apos;2018-06-03&apos;,&apos;2018-06-04&apos;,&apos;2018-06-05&apos;,&apos;2018-06-06&apos;,&apos;2018-06-07&apos;,&apos;2018-06-08&apos;,&apos;2018-06-09&apos;,&apos;2018-06-10&apos;,&apos;2018-06-11&apos;,&apos;2018-06-12&apos;,&apos;2018-06-13&apos;,&apos;2018-06-14&apos;,&apos;2018-06-15&apos;,&apos;2018-06-16&apos;,&apos;2018-06-17&apos;,&apos;2018-06-18&apos;,&apos;2018-06-19&apos;,&apos;2018-06-20&apos;,&apos;2018-06-21&apos;,&apos;2018-06-22&apos;,&apos;2018-06-23&apos;,&apos;2018-06-24&apos;,&apos;2018-06-25&apos;,&apos;2018-06-26&apos;,&apos;2018-06-27&apos;,&apos;2018-06-28&apos;,&apos;2018-06-29&apos;,&apos;2018-06-30&apos;],//data可由后台返回 axisPointer: &#123; type: &apos;shadow&apos; &#125; &#125; ], yAxis: [ &#123; type: &apos;value&apos;, name: &apos;工单数量/条&apos;, min: 0, max: 250, interval: 50, axisLabel: &#123; formatter: &apos;&#123;value&#125;&apos; &#125; &#125;, &#123; type: &apos;value&apos;, name: &apos;百分比%&apos;, min: 0, max: 25, interval: 5, axisLabel: &#123; formatter: &apos;&#123;value&#125;&apos; &#125; &#125; ], series: [ &#123; name:&apos;AAAA&apos;, type:&apos;bar&apos;, data:[2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 48.4, 3.3,2.0, 125.9, 56.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3,2.0, 4.9, 7.0, 23.2, 25.6, 76.7], itemStyle:&#123; normal:&#123; color:&apos;#F22E2D&apos;//自定义颜色 &#125; &#125; &#125;, &#123; name:&apos;BBBB&apos;, type:&apos;bar&apos;, data:[2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 61.0, 150.3,.625, 52.9, 94.0, 126.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3,2.6, 5.9, 9.0, 26.4, 28.7, 70.7], itemStyle:&#123; normal:&#123; color:&apos;#FCD64E&apos; &#125; &#125; &#125;, &#123; name:&apos;CCCC&apos;, type:&apos;bar&apos;, data:[2.3, 4.9, 6.0, 18.4, 20.7, 56.7, 120.6, 162, 40.7, 20.8, 16.0, 75.3,102.3, 121.9, 6.0, 18.4, 20.7, 56.7, 120.6, 162, 40.7, 20.8, 16.0, 5.3,2.3, 4.9, 6.0, 18.4, 20.7, 56.7], itemStyle:&#123; normal:&#123; color:&apos;#2BD75E&apos; &#125; &#125; &#125;, &#123; name:&apos;DDDD&apos;, type:&apos;line&apos;, smooth:true, //这个是把折线变成曲线 yAxisIndex: 1, data:[2.0, 2.2, 3.3, 4.5, 6.3, 10.2, 20.3, 23.4, 23.0, 16.5, 12.0, 16.2,18.0, 16.2, 18.3, 16.5, 6.3, 10.2, 20.3, 23.4, 23.0, 16.5, 12.0, 6.2,2.0, 2.2, 3.3, 4.5, 6.3, 10.2], itemStyle:&#123; normal:&#123; color:&apos;#4BBAFB&apos; &#125; &#125; &#125; ]&#125;; 三、初始化方法（首先引入jquery、bootstrap包；echarts包等） html: 1&lt;div id=&quot;echarts&quot;&gt;&lt;/div&gt; js:1234567891011121314151617181920212223全局的：var eCharts;InitEcharts();function InitEcharts()&#123; var eCharts=echarts.init(document.getElementById(&apos;echarts&apos;)); var newData=[]； //后台获取data数据，通过处理以 （&#123;name:***,value:***,searchParam：***&#125;）push到数据数组里newData中 var option=&#123; ...(以上option配置) data:seriesAllData &#125; eCharts.setOption(option);//重置option //点击每块区域跳转页面显示列表 eCharts.on(&quot;click&quot;,function(param)&#123; var search=option.series[0].data[param.dataIndex].searchParam;//获取所点击区域标识作为参数 $(window).attr(&quot;location&quot;, &quot;#/html页面地址&quot;); //参数传递到另外一个页面需要cookie保存 searchSign=&#123; searchValue:searchValue &#125;//返回原页面需要将cookie置空document.cookie=&quot;searchSign=&quot;+&quot;&quot;; $.cookie(&apos;searchSign&apos;,JSON.stringify(searchSign));//另外一个页面获取cookie &#125;) return eCharts; &#125; Annie Zhang的博客]]></content>
       <categories>
         <category>前端</category>
